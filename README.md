@@ -4,7 +4,7 @@ The project was made using Vite and ReactJS, and it's hosted on [Github Pages](h
 ### Running locally
  1. Cloning
 	 ```bash
-	 git clone https://github.com/ddanielsantos/fuzzy-octo-succotash.git
+	 git clone https://github.com/ddanielsantos/portfolio.git
 	 cd fuzzy-octo-succotash/
 	 ```
 2. Installing the dependencies
